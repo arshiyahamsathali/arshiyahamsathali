@@ -90,8 +90,4 @@ I love transforming ideas into **clean, functional, visually stunning experience
 </p>
 
 ---
-
-### 🩷 *Thank you for stopping by — let's create something amazing together!* 🩷  
-<img src="https://komarev.com/ghpvc/?username=arshiyahamsathali&label=Profile+Visits&color=ff69b4&style=flat"/>
-
 </div>
