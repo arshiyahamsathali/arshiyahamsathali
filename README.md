@@ -71,15 +71,7 @@
 ## 📊 **GitHub Stats**
 
 <p align="center">
-  <p align="center">
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshiyahamsathali&theme=synthwave" width="600"/>
-  <!-- Profile Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=arshiyahamsathali&show_icons=true&theme=synthwave" width="450"/>
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshiyahamsathali&layout=compact&theme=synthwave" width="380"/>
-</p>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshiyahamsathali&theme=synthwave" alt="GitHub Streak Stats" />
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshiyahamsathali&theme=synthwave"/>
   <img src="https://github-readme-stats.vercel.app/api?username=arshiyahamsathali&show_icons=true&theme=synthwave"/> -->
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=arshiyahamsathali&show_icons=true&theme=synthwave" width="450"/>
