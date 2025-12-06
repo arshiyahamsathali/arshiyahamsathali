@@ -72,8 +72,10 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshiyahamsathali&theme=synthwave"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=arshiyahamsathali&show_icons=true&theme=synthwave" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshiyahamsathali&layout=compact&theme=synthwave" width="380"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=arshiyahamsathali&show_icons=true&theme=synthwave"/>
+
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=arshiyahamsathali&show_icons=true&theme=synthwave" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshiyahamsathali&layout=compact&theme=synthwave" width="380"/> -->
 </p>
 
 ---
