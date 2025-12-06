@@ -71,7 +71,9 @@
 ## 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshiyahamsathali&theme=synthwave" alt="GitHub Streak Stats" />
+  <img src="https://img.shields.io/badge/Current_Streak-15%20Days-blueviolet?style=for-the-badge" alt="Current Streak"/>
+
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshiyahamsathali&theme=synthwave" alt="GitHub Streak Stats" /> -->
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshiyahamsathali&theme=synthwave"/>
   <img src="https://github-readme-stats.vercel.app/api?username=arshiyahamsathali&show_icons=true&theme=synthwave"/> -->
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=arshiyahamsathali&show_icons=true&theme=synthwave" width="450"/>
