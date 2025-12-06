@@ -2,13 +2,22 @@
 
 # 🌸 **Arshiya H**
 
+<!-- Table with intro + GIF -->
 <table>
   <tr>
     <td>
       <h3>AI & Data Science Student • Developer • UI/UX Enthusiast</h3>
       <p>
-        I'm <b>Arshiya</b>, an AI & Data Science student passionate about building intelligent applications,
-        aesthetic user interfaces, and meaningful tech solutions.  
+        Hi, I'm <b>Arshiya</b> — a curious AI & Data Science student on a mission to craft intelligent applications 
+        and build technology that truly makes an impact.
+      </p>
+      <p>
+        I believe design isn’t just about appearance — it’s about creating experiences that work seamlessly, 
+        feel intuitive, and leave a meaningful impression.
+      </p>
+      <p>
+        I’m passionate about transforming ideas into <b>elegant, functional, and visually captivating solutions</b> 
+        across <b>AI, software development, and user-centered design</b>.
       </p>
     </td>
     <td>
@@ -16,6 +25,12 @@
     </td>
   </tr>
 </table>
+
+---
+
+## 🔗 Connect With Me
+...
+
 
 ---
 
@@ -72,8 +87,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshiyahamsathali&theme=synthwave" alt="GitHub Streak Stats" />  
 </p>
 
-## 🏆 **GitHub Trophies**
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arshiyahamsathali&theme=synthwave&margin-w=10&margin-h=10" />
-</p>
