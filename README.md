@@ -71,11 +71,18 @@
 ## 📊 **GitHub Stats**
 
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshiyahamsathali&theme=synthwave" alt="GitHub Streak Stats" /> 
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshiyahamsathali&theme=synthwave"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=arshiyahamsathali&show_icons=true&theme=synthwave"/> -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=arshiyahamsathali&show_icons=true&theme=synthwave" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshiyahamsathali&layout=compact&theme=synthwave" width="380"/> -->
+  <p align="center">
+  <!-- Total Contributions -->
+  <img src="https://img.shields.io/badge/Total_Contributions-22-4c1?style=for-the-badge&logo=github" alt="Total Contributions"/>
+
+  <!-- Current Streak -->
+  <img src="https://img.shields.io/badge/Current_Streak-1🔥-orange?style=for-the-badge&logo=github" alt="Current Streak"/>
+
+  <!-- Longest Streak -->
+  <img src="https://img.shields.io/badge/Longest_Streak-2-6f42c1?style=for-the-badge&logo=github" alt="Longest Streak"/>
 </p>
+
+   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshiyahamsathali&theme=synthwave" alt="GitHub Streak Stats" />  -->
+  </p>
 
 ---
