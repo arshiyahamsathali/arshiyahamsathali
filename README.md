@@ -42,6 +42,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="45"/>
+  <img src="https://img.shields.io/badge/AntiGravity-AI%20Project-blueviolet?style=for-the-badge" height="35"/>
 </p>
 
 ---
