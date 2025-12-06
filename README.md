@@ -6,7 +6,6 @@
 <table>
   <tr>
     <td>
-      <h3>AI & Data Science Student • Developer • UI/UX Enthusiast</h3>
       <p>
         Hi, I'm <b>Arshiya</b> — a curious AI & Data Science student on a mission to craft intelligent applications 
         and build technology that truly makes an impact.
@@ -25,12 +24,6 @@
     </td>
   </tr>
 </table>
-
----
-
-## 🔗 Connect With Me
-...
-
 
 ---
 
@@ -85,5 +78,10 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshiyahamsathali&theme=synthwave" alt="GitHub Streak Stats" />  
+</p>
+
+## 🌈 **Activity Graph**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arshiyahamsathali&theme=react-dark&hide_border=true&area=true"/>
 </p>
 
