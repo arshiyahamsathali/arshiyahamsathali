@@ -29,7 +29,6 @@
 
 ## 🔗 **Connect With Me**
 
-* **GitHub** – [arshiyahamsathali](https://github.com/arshiyahamsathali)
 * **LinkedIn** – [arshiyahamsathali](https://www.linkedin.com/in/arshiyahamsathali/)
 * **LeetCode** – [ArshiyaH](https://leetcode.com/u/ArshiyaH/)
 
