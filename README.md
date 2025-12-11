@@ -76,8 +76,9 @@
 ## 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshiyahamsathali&theme=synthwave" alt="GitHub Streak Stats" />  
+  <img src="https://streak-stats.demolab.com/?user=arshiyahamsathali&theme=synthwave" alt="GitHub Streak Stats" />
 </p>
+
 
 
 ## 🌈 **Activity Graph**
