@@ -71,18 +71,5 @@
 | [LunaCare](https://lunacare.vercel.app/)                                    | Aesthetic full-stack e-commerce website with custom UI, auth & cart              |
 | [ResumeGenie](https://github.com/arshiyahamsathali/Resume-Genie-)           | NLP chatbot generating ATS-optimized resume summaries                            |
 
----
 
-## 📊 **GitHub Stats**
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=arshiyahamsathali&theme=synthwave" alt="GitHub Streak Stats" />
-</p>
-
-
-
-## 🌈 **Activity Graph**
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arshiyahamsathali&theme=react-dark&hide_border=true&area=true"/>
-</p>
 
