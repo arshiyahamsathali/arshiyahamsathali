@@ -1,6 +1,6 @@
 ---
 
-# 🌸 **Arshiya H**
+# **Arshiya H**
 
 <!-- Table with intro + GIF -->
 <table>
