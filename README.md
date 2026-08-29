@@ -36,19 +36,19 @@
 
 ## 💻 **Languages & Tools**
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="45"/>
-</p>
+
+| **Category**              | **Technologies**                                                      |
+| ------------------------- | --------------------------------------------------------------------- |
+| **Programming Languages** | <img src="https://skillicons.dev/icons?i=java" />           |
+| **Frontend Development**  | <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" /> |
+| **Backend Development**   | <img src="https://skillicons.dev/icons?i=fastapi" />                  |
+| **API Testing**           | <img src="https://skillicons.dev/icons?i=postman" />                  |
+| **Databases**             | <img src="https://skillicons.dev/icons?i=mysql" />                    |
+| **Version Control**       | <img src="https://skillicons.dev/icons?i=git,github" />               |
+| **Deployment & Hosting**  | <img src="https://skillicons.dev/icons?i=vercel" />                   |
+| **Design & UI/UX**        | <img src="https://skillicons.dev/icons?i=figma" />                    |
+| **Tools & IDEs**          | <img src="https://skillicons.dev/icons?i=vscode,eclipse" />   |
+
 
 ---
 
@@ -63,13 +63,13 @@
 
 ## 📚 **Projects**
 
-| 🔗 Link                                                                     | 📝 Description                                                                   |
-| --------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| 🔗 Link | 📝 Description |
+| ------- | -------------- |
 | [Study Planner](https://github.com/arshiyahamsathali/studyplanner-frontend) | AI-powered study planner with intelligent schedule generation + grammar feedback |
-| [AI Water Robot](#)                                                         | Smart robot separating bio & non-bio waste + environmental data monitoring       |
-| [FeedNeedy](https://github.com/arshiyahamsathali/feedneedy-frontend)        | Platform connecting surplus food to needy people                                 |
-| [LunaCare](https://lunacare.vercel.app/)                                    | Aesthetic full-stack e-commerce website with custom UI, auth & cart              |
-| [ResumeGenie](https://github.com/arshiyahamsathali/Resume-Genie-)           | NLP chatbot generating ATS-optimized resume summaries                            |
-
+| [AI Water Robot](#) | Smart robot separating bio & non-bio waste + environmental data monitoring |
+| [FeedNeedy](https://github.com/arshiyahamsathali/feedneedy-frontend) | Platform connecting surplus food to needy people |
+| [LunaCare](https://lunacare.vercel.app/) | Aesthetic full-stack e-commerce website with custom UI, authentication & cart |
+| [ResumeGenie](https://github.com/arshiyahamsathali/Resume-Genie-) | AI-powered resume assistant for generating ATS-optimized resume content |
+| [Online Donation System](https://github.com/arshiyahamsathali/OnlineDonationSystem) | Web-based platform for managing online donations and connecting donors with charitable causes |
 
 
